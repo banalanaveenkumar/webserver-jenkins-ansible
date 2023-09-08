@@ -6,4 +6,4 @@
 [test]
 172.31.34.54
 172.31.41.218
-
+ansible-user=ec2-user
